@@ -6,7 +6,7 @@ Cybersecurity Enthusiast focused on:
 - Penetration Testing
 - Web Application Security
 - Network Security
-- Threat Intellegence
+- Threat Intelligence
 - Security Documentation
 
 ## Skills
@@ -26,7 +26,7 @@ Cybersecurity Enthusiast focused on:
 |---------|----------|--------|
 | Dibimbing Shop Pentest | Web Pentest | Completed |
 | Metasploitabel Assessment | Network Pentest | Ongoing |
-| Threat Intellengence Indonesia | OSINT | Ongoing |
+| Threat Intellingence Indonesia | OSINT | Ongoing |
 
 
 
