@@ -1,27 +1,25 @@
 # fiata-cybersecurity-portfolio
 My Cybersecurity Portfolio
-# Fiata Ergunatan
+# Hi, i'm Fiata Ergunatan Buulolo
 
-Cybersecurity Enthusiast from Indonesia
-
-## About Me
-
-Saya memiliki minat dalam:
-
-- Security Operations Center (SOC)
-- Vulnerability Assessment
-- Threat Intelligence
+Cybersecurity Enthusiast focused on: 
+- Penetration Testing
+- Web Application Security
 - Network Security
+- Threat Intellegence
+- Security Documentation
 
 ## Skills
 
+- Penetration Testing
+- Vulnerabiity Assessment
+- Network Enumeration
 - Linux
 - Nmap
-- Wireshark
 - Burp Suite
-- Bash
-- Python
-
+- Wireshark
+- OWASP Top 10
+- 
 ## Contact
 
 LinkedIn:
