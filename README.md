@@ -19,7 +19,17 @@ Cybersecurity Enthusiast focused on:
 - Burp Suite
 - Wireshark
 - OWASP Top 10
-- 
+
+---
+## Featured Projects 
+| project | Category | Status |
+|---------|----------|--------|
+| Dibimbing Shop Pentest | Web Pentest | Completed |
+| Metasploitabel Assessment | Network Pentest | Ongoing |
+| Threat Intellengence Indonesia | OSINT | Ongoing |
+
+
+
 ## Contact
 
 LinkedIn:
