@@ -25,7 +25,7 @@ Cybersecurity Enthusiast focused on:
 | project | Category | Status |
 |---------|----------|--------|
 | Dibimbing Shop Pentest | Web Pentest | Completed |
-| Metasploitabel Assessment | Network Pentest | Ongoing |
+| Metasploitable Assessment | Network Pentest | Ongoing |
 | Threat Intellingence Indonesia | OSINT | Ongoing |
 
 
